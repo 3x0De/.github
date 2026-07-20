@@ -6,4 +6,4 @@
 [Charte garphique et explication des valeurs](<../Charte\ Graphique.pdf>)
 
 #### Liste des projets
-- [Dotted](https://github.com/3x0De/Dotted-docs)
+- [Dotted](https://github.com/3x0De/Dotted-docs) ![Logo de Dotted](../apps/Dotted.svg)
